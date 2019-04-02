@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1554243145 source:c:\utn\tp_1\f_math.c
+
+1554243579 source:c:\utn\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"f_math.h"
+
+1554241006 c:\utn\tp_1\f_math.h
+
