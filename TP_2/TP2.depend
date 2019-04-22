@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1555944084 source:c:\utn\tp2\f_gets.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"f_validacion.h"
+
+1555943953 c:\utn\tp2\f_validacion.h
+
+1555944211 source:c:\utn\tp2\f_validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"f_gets.h"
+
+1555944124 c:\utn\tp2\f_gets.h
+
+1555957151 source:c:\utn\tp2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"f_validacion.h"
+	"f_gets.h"
+	"f_getString.h"
+
+1555946429 source:c:\utn\tp2\f_getstring.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"f_gets.h"
+	"f_validacion.h"
+
+1555946124 c:\utn\tp2\f_getstring.h
+
