@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1559683496 source:c:\utn\ayuwoki\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ayuwoki.h"
+	"Ayu_Math.h"
+
+1559681192 source:c:\utn\ayuwoki\ayuwoki.c
+	<stdio.h>
+	<stdlib.h>
+
+1559681179 c:\utn\ayuwoki\ayuwoki.h
+
+1559684580 source:c:\utn\ayuwoki\ayu_math.c
+	<stdio.h>
+	<stdlib.h>
+	"Ayuwoki.h"
+
+1559683376 c:\utn\ayuwoki\ayu_math.h
+
